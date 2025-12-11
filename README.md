@@ -27,9 +27,7 @@
     <li>
       <a href="#contact">Contact</a>
     </li>
-    <li>
-      <a href="https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/> See the blog to execute the projectDemo</a>
-    </li>
+    
   </ol>
 </details>
 
@@ -53,6 +51,7 @@
 - Create an account if you don't have on [TMDB](https://www.themoviedb.org/).
   Because I use its free API to consume movie/tv data.
 - And then follow the [documentation](https://developers.themoviedb.org/3/getting-started/introduction) to create API Key
+-  See the blog to execute the project[Blog](https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops)
 - Finally, if you use v3 of TMDB API, create a file named `.env`, and copy and paste the content of `.env.example`.
   And then paste the API Key you just created.
 
