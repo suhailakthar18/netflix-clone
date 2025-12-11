@@ -7,6 +7,8 @@
 
   <p align="center">
     <a href="https://netflix-clone-react-typescript.vercel.app/">View Demo</a>
+
+    <a href="https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/> See the blog to execute the projectDemo</a>
     ·
     <a href="https://github.com/crazy-man22/netflix-clone-react-typescript/issues">Report Bug</a>
     ·
