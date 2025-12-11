@@ -27,6 +27,9 @@
     <li>
       <a href="#contact">Contact</a>
     </li>
+    <li>
+      <a href="https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/> See the blog to execute the projectDemo</a>
+    </li>
   </ol>
 </details>
 
